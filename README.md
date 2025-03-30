@@ -44,7 +44,7 @@
 </td>
 <td width="50%" align="center">
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BuddhikaAshen&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaAshen&theme=dark&hide_border=false&langs_count=10"/>
   
   </td>
 
