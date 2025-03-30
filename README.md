@@ -16,7 +16,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Plymouth**
 
-- 💬 Ask me about **PHP / Java / Python / Linux **
+- 💬 Ask me about **PHP / Java / Python / Linux**
   
 - ⚡ Fun fact **Call me as ASHEN**
 
