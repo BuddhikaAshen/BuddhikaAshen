@@ -55,7 +55,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p>SWYgeW914oCZcmUgc3RhbGtpbmcgdGhpcyBzZWN0aW9uLCBhdCBsZWFzdCBoaXJlIG1lIGFmdGVyCg==</p>
+<p align="center">SWYgeW914oCZcmUgc3RhbGtpbmcgdGhpcyBzZWN0aW9uLCBhdCBsZWFzdCBoaXJlIG1lIGFmdGVyCg==</p>
 <p align="center">
 <a href="https://www.youtube.com/@youtubeshort2068" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="youtubeshort" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/buddhika-ashen-935257216/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="buddhika-ashen" height="50" width="50" /></a>
